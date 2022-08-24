@@ -16,6 +16,8 @@ mypy==0.971
     # via -r requirements.in
 mypy-extensions==0.4.3
     # via mypy
+numpy==1.23.2
+    # via -r requirements.in
 pycodestyle==2.7.0
     # via flake8
 pyflakes==2.3.1
